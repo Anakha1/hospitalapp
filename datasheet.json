@@ -1,0 +1,28 @@
+[
+    {
+        "hospitalName": "Apollo Hospital",
+        "patientCount": "1000",
+        "hospitalLocation": "Trivandrum"
+        
+    },
+    {
+        "hospitalName": "Trisha Hospital",
+        "patientCount": "200",
+        "hospitalLocation": "Kayankulam"
+    },
+    {
+        "hospitalName": "General Hospital",
+        "patientCount": "1000",
+        "hospitalLocation": "Haripad"
+    },
+    {
+        "hospitalName": "Government Hospital",
+        "patientcount": "20000",
+        "hospitalLocation": "Ernakulam"
+    },
+    {
+        "hospitalName": "Believers Hospital",
+        "patientcount": "4000",
+        "hospitalLocation": "Alappuzha"   
+    }
+]
